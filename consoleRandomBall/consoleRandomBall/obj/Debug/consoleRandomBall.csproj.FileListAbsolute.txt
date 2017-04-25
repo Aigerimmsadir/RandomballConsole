@@ -1,0 +1,6 @@
+c:\users\айгерим\documents\visual studio 2015\Projects\consoleRandomBall\consoleRandomBall\bin\Debug\consoleRandomBall.exe.config
+c:\users\айгерим\documents\visual studio 2015\Projects\consoleRandomBall\consoleRandomBall\bin\Debug\consoleRandomBall.exe
+c:\users\айгерим\documents\visual studio 2015\Projects\consoleRandomBall\consoleRandomBall\bin\Debug\consoleRandomBall.pdb
+c:\users\айгерим\documents\visual studio 2015\Projects\consoleRandomBall\consoleRandomBall\obj\Debug\consoleRandomBall.csprojResolveAssemblyReference.cache
+c:\users\айгерим\documents\visual studio 2015\Projects\consoleRandomBall\consoleRandomBall\obj\Debug\consoleRandomBall.exe
+c:\users\айгерим\documents\visual studio 2015\Projects\consoleRandomBall\consoleRandomBall\obj\Debug\consoleRandomBall.pdb
